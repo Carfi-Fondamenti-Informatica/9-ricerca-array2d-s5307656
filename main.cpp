@@ -16,6 +16,6 @@ int main() {
   x=ricerca (lista_nomi, nome);
   if (x!=-1)
       cout <<x;
-  else cout << "Non presente"<<endl;
+  else cout << "non presente"<<endl;
     return 0;
 }
